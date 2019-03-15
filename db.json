@@ -1,18 +1,20 @@
-[
-  {
-    "id": 1,
-    "title": "เปิดตัว AIS eSports พร้อมลุยวงการอีสปอร์ต ส่งประสบการณ์ใหม่สู่เกมเมอร์ไทยตลอดปี",
-    "imgUrl": "https://www.gamingdose.com/wp-content/uploads/2019/03/AIS_eSports-3.jpg",
-    "date": "15/3/60",
-    "content": "test.md",
-    "tags": ["other"]
-  },
-  {
-    "id": 2,
-    "title": "มือกราดยิงนิวซีแลนด์ หลุดคำว่า ‘Subscribe to PewDiePie’ ในไลฟ์สดก่อนก่อเหตุ",
-    "imgUrl": "https://www.gamingdose.com/wp-content/uploads/2019/03/pewdiepie-1.jpg",
-    "date": "15/3/60",
-    "content": "test2.md",
-    "tags": ["other"]
-  }
-]
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "เปิดตัว AIS eSports พร้อมลุยวงการอีสปอร์ต ส่งประสบการณ์ใหม่สู่เกมเมอร์ไทยตลอดปี",
+      "imgUrl": "https://www.gamingdose.com/wp-content/uploads/2019/03/AIS_eSports-3.jpg",
+      "date": "15/3/60",
+      "content": "test.md",
+      "tags": ["other"]
+    },
+    {
+      "id": 2,
+      "title": "มือกราดยิงนิวซีแลนด์ หลุดคำว่า ‘Subscribe to PewDiePie’ ในไลฟ์สดก่อนก่อเหตุ",
+      "imgUrl": "https://www.gamingdose.com/wp-content/uploads/2019/03/pewdiepie-1.jpg",
+      "date": "15/3/60",
+      "content": "test2.md",
+      "tags": ["other"]
+    }
+  ]
+}
